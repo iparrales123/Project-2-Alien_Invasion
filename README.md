@@ -7,3 +7,6 @@ OVERVIEW This is a simplified version of the popular Space Invaders game. The ga
 - Multiple levels, with the speed (and point value) of the aliens increasing with each new level.
 - A scoreboard to track of your score, and your high score.
 - A menu button that allows the game to start, or to play again if you lose, or just like winning again
+
+![Capture](https://user-images.githubusercontent.com/47342722/65782120-d833c880-e101-11e9-931e-88e4ef0cca03.PNG)
+
